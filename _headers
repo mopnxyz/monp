@@ -1,0 +1,3 @@
+/assets/*
+  cache-control: no-cache
+  cache-control: immutable
